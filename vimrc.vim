@@ -56,6 +56,7 @@ set nospell         " Spell checking is off by default
 set nowrap          " Wrapping is off by default
 set history=10000   " Keep lots of history
 
+set smartindent
 set backspace=2     " Allow backspacing over indents, eol, and starts
 set ignorecase      " Ignore case when searching
 set magic           " Allow extended regular expressions
